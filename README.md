@@ -1,2 +1,2 @@
-# Maratona-de-Programa-o-Inatel
+# Maratde Programação Inatel
 Problemas e soluções das Maratonas de Programação do Inatel
